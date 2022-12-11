@@ -4,3 +4,4 @@ input.txt
 obj/
 bin/
 *.out
+_build/
